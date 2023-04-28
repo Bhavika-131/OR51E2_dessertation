@@ -1,0 +1,11 @@
+Name ,smiles
+propionate ,CCC(=O)[O-]
+vannilin ,COC1=C(C=CC(=C1)C=O)O
+Acetophenone ,O=C(C1=CC=CC=C1)C
+Coumarin ,O1C2=CC=CC=C2C=CC1=O
+Ethyl_Cinnamate ,CCOC(=O)/C=C/C1=CC=CC=C1
+Folic_acid ,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+caffeine ,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Glycerine ,C(C(CO)O)O
+citric_acid ,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+Sodium_Lauryl_Sulphate ,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
