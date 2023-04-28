@@ -1,0 +1,26 @@
+Chemical Name,Smiles
+Phenylacetic_Acid,C1=CC=C(C=C1)CC(=O)O
+Ethyl_Cinnamate,CCOC(=O)/C=C/C1=CC=CC=C1
+Allyl_methyl_sulphide,CSCC=C
+2_heptanol,CCCCCC(C)O
+M_cresol,CC1=CC(=CC=C1)O
+2_undecanal ,CCCCCCCC\\C=C\\C=O
+isoamyl_acetate,CC(C)CCOC(C)=O
+vannilin,COC1=C(C=CC(=C1)C=O)O
+7-methoxy_coumarin,COC1=CC2=C(C=C1)C=CC(=O)O2
+Methyleugenol,COC1=C(C=C(C=C1)CC=C)OC
+Acetophenone,O=C(C1=CC=CC=C1)C
+Coumarin,O1C2=CC=CC=C2C=CC1=O
+r-Carvone,O=C1C[C@@H](CC=C1C)C(=C)C
+4-chromanone,O1CCC(=O)C2=CC=CC=C12
+Sodium_Lauryl_Sulphate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+Benzyl_salicylate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
+citric_acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+"1,3-Butanediol",CC(CCO)O
+caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Glycerine,C(C(CO)O)O
+Propylene_glycol,CC(CO)O
+Folic_acid,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+Sodium_acetate,CC(=O)[O-].[Na+]
+Sodium_lactate,CC(C(=O)[O-])O.[Na+]
+propionate ,CCC(=O)[O-]
